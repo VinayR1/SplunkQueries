@@ -1,0 +1,2 @@
+# SplunkQueries
+All Splunk Queries
